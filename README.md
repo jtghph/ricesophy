@@ -24,8 +24,6 @@ This repo is a merger of
 ## This also probably merges
 [@adi1090x's Openbox repo](https://github.com/adi1090x/termux-desktop)
 
-Openbox branch is not in this repo yet because i have no interest in ricing window managers.
-
 # Available environments/WindowManagers (with Flavors)
 XFCE, LXQt, and Openbox
 
