@@ -1,2 +1,5 @@
-# termux-desktop
-(un)Official repo for Desktop Environment Installations 
+# LXQt Branch
+This branch is for the LXQt Desktop Environment.
+
+Flavors:
+Coming soon, with a drop-down markdown menu.
