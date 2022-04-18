@@ -1,5 +1,5 @@
-# termux-desktop
-(un)Official repo for Desktop Environment Installations 
+# DexMuxPlusPlus (or DM++)
+(un)Official repo for Desktop Environment Installations in Termux 
 
 # History
 This repo is a merger of
