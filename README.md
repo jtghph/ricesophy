@@ -8,7 +8,7 @@
 
   <img src="https://img.shields.io/github/issues/c4scnevee/DexmuxPlusPlus?color=violet&style=for-the-badge">
 
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-desktop?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/c4scnevee/DexmuxPlusPlus?style=for-the-badge">
 
 </p>
 
