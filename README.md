@@ -5,14 +5,16 @@
 # History
 This repo is a merger of
 
-[@Yisus7u7's XFCE Repo]()
+[@Yisus7u7's XFCE Repo](https://github.com/Yisus7u7/termux-desktop-xfce)
 
-[@Yisus7u7's LXQt Repo]()
+[@Yisus7u7's LXQt Repo](https://github.com/termux-desktop/termux-desktop-lxqt)
 
 ## This also probably merges
-[@adi1090x's Openbox repo]()
+[@adi1090x's Openbox repo](https://github.com/adi1090x/termux-desktop)
 
-# Available environments/window Managers (with Flavors)
+Openbox branch is not in this repo yet because i have no interest in ricing window managers.
+
+# Available environments/WindowManagers (with Flavors)
 XFCE, LXQt, and Openbox
 
 # Why no MATE desktop environment?
