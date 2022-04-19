@@ -1,6 +1,6 @@
 # XFCE Desktop: "Forest" Flavor
 
-![desktop](/images/desktop.png)
+![desktop](./images/desktop.png)
 
 Featuring XFCE with Polybar, instead of the traditional XFCE Panel
 
