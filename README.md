@@ -1,5 +1,8 @@
-# XFCE Branch
-This branch is for the XFCE Desktop Environment.
+**XFCE Branch**
+This branch is for the LXQt Desktop Environment.
 
-Flavors:
-Coming soon, with a drop-down markdown menu.
+# ANNOUNCEMENT
+First release coming soon! 
+
+# Desktop Flavors
+Flavor "Forest"
