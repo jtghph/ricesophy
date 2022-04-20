@@ -27,7 +27,7 @@ Check out [Termux:x11](https://github.com/termux/termux-x11)!
 KaLiKeX isn't included here because it's based on bVNC.
 
 # Troubleshooting
-I decided to leave thid here for my friends 😉
+I decided to leave this here for my friends 😉
 ## Starting VNC/TigerVNC
 ### Native Termux:
 Do `nano .vnc/xstartup`. If it's a fresh install, then you'll see this
@@ -35,23 +35,23 @@ Do `nano .vnc/xstartup`. If it's a fresh install, then you'll see this
 
 Wanna start VNC with different environments and window managers? Then your `.vnc/xstartup` file should contain these
 
-![inage](.images/xfce.png)
+![inage](./images/xfce.png)
 XFCE
 
-![inage](.images/lxqt.png)
+![inage](./images/lxqt.png)
 LXQt
 
-![inage](.images/openbox.png)
+![inage](./images/openbox.png)
 Openbox
 
-![inage](.images/i3.png)
+![inage](./images/i3.png)
 i3WM
 
-![inage](.images/bspwm.png)
+![inage](./images/bspwm.png)
 bspWM
 
-![inage](.images/dwm.png)
+![inage](./images/dwm.png)
 dWM
 
-![inage](.images/xorgtwm.png)
+![inage](./images/xorgtwm.png)
 xORG TWM
