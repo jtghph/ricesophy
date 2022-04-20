@@ -32,3 +32,26 @@ I decided to leave thid here for my friends 😉
 ### Native Termux:
 Do `nano .vnc/xstartup`. If it's a fresh install, then you'll see this
 ![image](./images/fresh-xstartup.png)
+
+Wanna start VNC with different environments and window managers? Then your `.vnc/xstartup` file should contain these
+
+![inage](.images/xfce.png)
+XFCE
+
+![inage](.images/lxqt.png)
+LXQt
+
+![inage](.images/openbox.png)
+Openbox
+
+![inage](.images/i3.png)
+i3WM
+
+![inage](.images/bspwm.png)
+bspWM
+
+![inage](.images/dwm.png)
+dWM
+
+![inage](.images/xorgtwm.png)
+xORG TWM
