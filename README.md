@@ -25,3 +25,10 @@ Check out [Termux:x11](https://github.com/termux/termux-x11)!
 - Where's kaLiKeX?
 
 KaLiKeX isn't included here because it's based on bVNC.
+
+# Troubleshooting
+I decided to leave thid here for my friends 😉
+## Starting VNC/TigerVNC
+### Native Termux:
+Do `nano .vnc/xstartup`. If it's a fresh install, then you'll see this
+![image](./images/fresh-xstartup.png)
