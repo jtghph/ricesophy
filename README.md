@@ -55,3 +55,13 @@ dWM
 
 ![inage](./images/xorgtwm.png)
 xORG TWM
+
+### Proot-distro
+#### Debian Family
+```bash
+tigervncserver -xstartup /usr/bin/
+                                  ^ here lies the desktop environment
+```
+#### Arch Family
+#### Fedora
+#### Void Linux
