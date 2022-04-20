@@ -62,6 +62,11 @@ xORG TWM
 tigervncserver -xstartup /usr/bin/
                                   ^ here lies the desktop environment
 ```
+For xfce, put in `xfce4-session`
+`lxqt-session` for LXQt, `lxde-session` for LXDE, `mate-session` for MATE, and so on.
 #### Arch Family
+Can't provide one yet
 #### Fedora
+Can't provide one yet
 #### Void Linux
+Can't provide one yet
