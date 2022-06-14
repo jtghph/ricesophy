@@ -1,17 +1,13 @@
-**Termux:x11/Wayland Branch**
+**Termux Desktop Branch**
 
 This branch is for extensive documents for
-- installing Wayland
-- the Termux:x11 application
-- starting Desktop Environments with Wayland
-- Performance chart, including all Virtual Network Computing (or VNC) Viewers.
-
-
-Check out [Termux:x11](https://github.com/termux/termux-x11)!
-
+- desktop environments that works within Termux and proot-distro, both light and heavy
+- requirements in order to install these environmets
+- RAM/System Memory usage of all Desktop Environments
 
 # General information
-## x11 and Wayland
+## Desktop Environments
+As of now, there are xfce, lxqt, lxde, mate, KDE, UKUI 6 desktop environments that work in Termux, both 
 ## Performance Chart
 - Note: GLXGears is on fullscreen
 
